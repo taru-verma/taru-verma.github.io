@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taru-verma.github.io/sitemap.xml
